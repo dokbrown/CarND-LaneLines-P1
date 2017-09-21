@@ -12,8 +12,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images/solideWhiteCurve.jpg "input"
-[image2]: ./test_images_output/solideWhiteCurve.jpg "output"
+[image1]:/test_images/solidWhiteCurve.jpg "input"
+[image2]:/test_images_output/output_solidWhiteCurve.jpg "output"
 
 ---
 
